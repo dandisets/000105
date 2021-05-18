@@ -103,7 +103,9 @@
 "digest":
 {
 "dandi:dandi-etag":
-"6f2e10d262466bded1f7efbc239f75e1-10000"
+"6f2e10d262466bded1f7efbc239f75e1-10000",
+"dandi:sha2-256":
+"9f0d152216a8abe53bc823bd97d309087b7c447b563453d326b005e17ab39d88"
 },
 "identifier":
 "8e2ec25c-dfba-4105-a1c2-ca7ebc0fe95a",

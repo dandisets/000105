@@ -2,11 +2,22 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000105
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
+about: []
+access: []
 citation: 'MGH19-1-021520 (2021). Online: https://dandiarchive.org/000105/draft'
+contributor: []
 description: Pons section from acccession MGH 19-1_021520 stained with YOYO1
+ethicsApproval: []
 id: 000105/draft
 identifier: DANDI:000105
+keywords: []
+license: []
+manifestLocation: []
 name: MGH19-1-021520
+protocol: []
+relatedResource: []
 schemaVersion: 0.3.0
+studyTarget: []
 url: https://dandiarchive.org/000105/draft
 version: draft
+wasGeneratedBy: []
