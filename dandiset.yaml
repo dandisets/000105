@@ -4,18 +4,36 @@
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
 about: []
 access: []
-citation: 'MGH19-1-021520 (2021). Online: https://dandiarchive.org/000105/draft'
-contributor: []
+citation: 'Kwanghun Chung; Lee Kamentsky (2021) MGH19-1-021520. Online: https://dandiarchive.org/000105/draft'
+contributor:
+- affiliation: []
+  email: khchung@mit.edu
+  includeInCitation: true
+  name: Kwanghun Chung
+  roleName:
+  - dandi:ProjectManager
+  schemaKey: Person
+  url: chunglab.org
+- affiliation: []
+  email: lkaments@mit.edu
+  identifier: 0000-0002-8161-3604
+  includeInCitation: true
+  name: Lee Kamentsky
+  roleName:
+  - dandi:ContactPerson
+  schemaKey: Person
 description: Pons section from acccession MGH 19-1_021520 stained with YOYO1
 ethicsApproval: []
 id: 000105/draft
 identifier: DANDI:000105
 keywords: []
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation: []
 name: MGH19-1-021520
 protocol: []
 relatedResource: []
+repository: https://dandiarchive.org/
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000105/draft
