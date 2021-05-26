@@ -34,8 +34,12 @@ name: MGH19-1-021520
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000105/draft
 version: draft
-wasGeneratedBy: []
+wasGeneratedBy:
+- name: Brain Initiative Cell Census Network (BICCN)
+  schemaKey: Project
+  wasAssociatedWith: []
