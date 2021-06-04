@@ -4,12 +4,12 @@
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.3.0/context.json
 about: []
 access: []
-citation: 'Kwanghun Chung; Lee Kamentsky (2021) MGH19-1-021520. Online: https://dandiarchive.org/000105/draft'
+citation: 'Chung, Kwanghun; Kamentsky, Lee (2021) MGH19-1-021520. Online: https://dandiarchive.org/000105/draft'
 contributor:
 - affiliation: []
   email: khchung@mit.edu
   includeInCitation: true
-  name: Kwanghun Chung
+  name: Chung, Kwanghun
   roleName:
   - dandi:ProjectManager
   schemaKey: Person
@@ -18,7 +18,7 @@ contributor:
   email: lkaments@mit.edu
   identifier: 0000-0002-8161-3604
   includeInCitation: true
-  name: Lee Kamentsky
+  name: Kamentsky, Lee
   roleName:
   - dandi:ContactPerson
   schemaKey: Person
