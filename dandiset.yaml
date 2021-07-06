@@ -5,8 +5,17 @@
 about: []
 access: []
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 2542027975752
+  numberOfFiles: 2
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Chung, Kwanghun; Kamentsky, Lee (2021) MGH19-1-021520 (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000105/draft
 contributor:
