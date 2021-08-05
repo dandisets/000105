@@ -42,7 +42,8 @@ identifier: DANDI:000105
 keywords: []
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000105/versions/draft/assets/
 name: MGH19-1-021520
 protocol: []
 relatedResource: []
