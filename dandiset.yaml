@@ -13,10 +13,12 @@ assetsSummary:
   measurementTechnique: []
   numberOfBytes: 2542027975752
   numberOfFiles: 2
+  numberOfSamples: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Chung, Kwanghun; Kamentsky, Lee (2021) MGH19-1-021520 (Version draft) [Data
+citation: Chung, Kwanghun; Kamentsky, Lee (2022) MGH19-1-021520 (Version draft) [Data
   set]. DANDI archive. https://dandiarchive.org/dandiset/000105/draft
 contributor:
 - affiliation: []
